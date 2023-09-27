@@ -1,1 +1,3 @@
 # Chatbot
+
+#I detta projekt ska vi skapa en chatbot med hjälp av python. Vi ska använda oss av CLI och GUI för att få ett bra UI. För att få det så användarvänligt som möjligt måste vi implementera en NLP för effektiv kommunikation med botten. Botten ska kunna svara på frågor om verkligheten i denna tidsstund. Exempelvis "vad är det för väder i nacka?". För att botten ska kunna veta vad för väder det är i ett specifikt område måste vi ha en API som botten kan ta faktan ifrån.  Användarens historik ska även sparas så den kan gå tillbak i konversationer och fråga exempelvis "Vad har vi pratat om?". 
